@@ -13,36 +13,36 @@
     },
     {
       "id":2,
-      "name":"The Regular Pantsuit",
-      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "bulletDescription": "So baggy and yet hugs all the right places. Big hidden pockets. Front zipper so you can zip yourself in. Silk material, reinforced stitching",
-      "price":35,
+      "name":"Bernard Pant",
+      "description":"Full length, wide-leg silhouette, draped halter neck and open back",
+      "bulletDescription": "Hidden side zip closure. Waist tie detail. Ribbed fabric detail throughout",
+      "price":89,
       "sizeInfo": "",
-      "materialInfo": "silk",
+      "materialInfo": "mix",
       "wearInfo": "baggy",
-      "galleryImagesCount": 1
+      "galleryImagesCount": 3
     },
     {
       "id":3,
-      "name":"The Best Pantsuit",
-      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "bulletDescription": "So baggy and yet hugs all the right places. Big hidden pockets. Front zipper so you can zip yourself in. Silk material, reinforced stitching",
+      "name":"Olivia Jumpsuit",
+      "description":"Fabric is mid-weight, slinky metallic knit",
+      "bulletDescription": "Hook-and-eye and hidden zip closures at back. Dry clean. Imported, China",
       "price":110,
       "sizeInfo": "big",
       "materialInfo": "silk",
       "wearInfo": "baggy",
-      "galleryImagesCount": 1
+      "galleryImagesCount": 3
     },
     {
       "id":4,
-      "name":"Yet Another Pantsuit",
-      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "name":"Belle Jumpsuit",
+      "description":"Jacquard fabric, Front button closures, Chest patch pockets",
       "bulletDescription": "So baggy and yet hugs all the right places. Big hidden pockets. Front zipper so you can zip yourself in. Silk material, reinforced stitching",
       "price":50,
       "sizeInfo": "big",
       "materialInfo": "silk",
       "wearInfo": "baggy",
-      "galleryImagesCount": 1
+      "galleryImagesCount": 3
     },
     {
       "id":5,
@@ -53,7 +53,7 @@
       "sizeInfo": "big",
       "materialInfo": "silk",
       "wearInfo": "baggy",
-      "galleryImagesCount": 1
+      "galleryImagesCount": 3
     },
     {
       "id":6,
@@ -64,7 +64,7 @@
       "sizeInfo": "big",
       "materialInfo": "silk",
       "wearInfo": "baggy",
-      "galleryImagesCount": 1
+      "galleryImagesCount": 3
     }
   ],
   "productData": {
@@ -74,6 +74,7 @@
     },
     "materialInfos": {
       "silk": "100% silk which feels very nice",
+      "mix": "80% rayon, 20% nylon",
       "cotton": "100% organic cotton"
     },
     "wearInfos": {
