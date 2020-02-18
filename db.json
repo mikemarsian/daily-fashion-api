@@ -1,0 +1,148 @@
+{
+  "products":[
+    {
+      "id":1,
+      "name":"The Special Pantsuit",
+      "description":"This is the coolest pantsuit you've ever seen. Fits like a dream. Wear this everywhere, and nowhere.",
+      "bulletDescription": "So baggy and yet hugs all the right places. Big hidden pockets. Front zipper so you can zip yourself in. Silk material, reinforced stitching",
+      "price":50,
+      "sizeInfo": "small",
+      "materialInfo": "silk",
+      "wearInfo": "baggy",
+      "galleryImagesCount": 5
+    },
+    {
+      "id":2,
+      "name":"The Regular Pantsuit",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "bulletDescription": "So baggy and yet hugs all the right places. Big hidden pockets. Front zipper so you can zip yourself in. Silk material, reinforced stitching",
+      "price":35,
+      "sizeInfo": "",
+      "materialInfo": "silk",
+      "wearInfo": "baggy",
+      "galleryImagesCount": 1
+    },
+    {
+      "id":3,
+      "name":"The Best Pantsuit",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "bulletDescription": "So baggy and yet hugs all the right places. Big hidden pockets. Front zipper so you can zip yourself in. Silk material, reinforced stitching",
+      "price":110,
+      "sizeInfo": "big",
+      "materialInfo": "silk",
+      "wearInfo": "baggy",
+      "galleryImagesCount": 1
+    },
+    {
+      "id":4,
+      "name":"Yet Another Pantsuit",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "bulletDescription": "So baggy and yet hugs all the right places. Big hidden pockets. Front zipper so you can zip yourself in. Silk material, reinforced stitching",
+      "price":50,
+      "sizeInfo": "big",
+      "materialInfo": "silk",
+      "wearInfo": "baggy",
+      "galleryImagesCount": 1
+    },
+    {
+      "id":5,
+      "name":"Product 5",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "bulletDescription": "So baggy and yet hugs all the right places. Big hidden pockets. Front zipper so you can zip yourself in. Silk material, reinforced stitching",
+      "price":35,
+      "sizeInfo": "big",
+      "materialInfo": "silk",
+      "wearInfo": "baggy",
+      "galleryImagesCount": 1
+    },
+    {
+      "id":6,
+      "name":"Product 6",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "bulletDescription": "So baggy and yet hugs all the right places. Big hidden pockets. Front zipper so you can zip yourself in. Silk material, reinforced stitching",
+      "price":110,
+      "sizeInfo": "big",
+      "materialInfo": "silk",
+      "wearInfo": "baggy",
+      "galleryImagesCount": 1
+    }
+  ],
+  "productData": {
+    "sizeInfos": {
+      "small": "These are sized a little small. We advise ordering the next size up from what you normally wear.",
+      "big": "These are sized a little large. We advise ordering the next size down from what you normally wear."
+    },
+    "materialInfos": {
+      "silk": "100% silk which feels very nice",
+      "cotton": "100% organic cotton"
+    },
+    "wearInfos": {
+      "baggy": "These are meant to be warn slightly baggy so that they are comfortable. Zipper front with rolled up sleeves. Hip pockets on the front",
+      "tight": "These will cover your body nice and tight"
+    }
+  },
+  "productQuantities": [
+    {
+      "id": 1,
+      "quantities": {
+        "xs": 0,
+        "s": 57,
+        "m": 14,
+        "l": 16,
+        "xl": 22
+      }
+    },
+    {
+      "id": 2,
+      "quantities": {
+        "xs": 2,
+        "s": 57,
+        "m": 14,
+        "l": 16,
+        "xl": 22
+      }
+    },
+    {
+      "id": 3,
+      "quantities": {
+        "xs": 2,
+        "s": 57,
+        "m": 14,
+        "l": 16,
+        "xl": 22
+      }
+    },
+    {
+      "id": 4,
+      "quantities": {
+        "xs": 2,
+        "s": 57,
+        "m": 14,
+        "l": 16,
+        "xl": 22
+      }
+    },
+    {
+      "id": 5,
+      "quantities": {
+        "xs": 2,
+        "s": 57,
+        "m": 14,
+        "l": 16,
+        "xl": 22
+      }
+    }
+  ],
+  "userInfo":{
+    "isLoggedIn":false,
+    "isSignedUp":false,
+    "hasSearched":false,
+    "name":"",
+    "productTitleSearched":""
+  },
+  "systemInfo":{
+    "openLoginModal":false,
+    "openSignupModal":false,
+    "openCheckoutModal":false
+  }
+}
